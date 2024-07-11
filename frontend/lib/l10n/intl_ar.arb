@@ -1,0 +1,9 @@
+{
+    "WelcomeMgs" : "أهلاً بعودتك!",
+    "Username" : "اسم المستخدم",
+    "Password" : "كلمة المرور",
+    "ForgotPassword" : "هل نسيت كلمة المرور؟",
+    "SignIn" : "تسجيل الدخول",
+    "NotMember" : " لست عضواً؟",
+    "RegisterNow" : "سجل الآن"
+}

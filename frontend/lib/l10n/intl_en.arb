@@ -1,0 +1,14 @@
+{
+    "WelcomeMgs" : "Login",
+    "Username" : "User Name",
+    "Password" : "Password",
+    "ForgotPassword" : "Forgot Password?",
+    "SignIn" : "Sign In",
+    "NotMember" : "Not a member? ",
+    "RegisterNow" : " Register now",
+    "WrongEmail" : "Wrong Email",
+    "WrongPassword" : "Wrong Password",
+    "Ok" : "OK"
+
+
+}

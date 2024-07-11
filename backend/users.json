@@ -1,0 +1,23 @@
+{    "users": [
+    {
+        "id": 1,
+        "name": "muhannad",
+        "email": "muhannad@gmail.com",
+        "password": "123",
+        "courses":[1,2]
+    },
+    {
+        "id": 2,
+        "name": "shadah",
+        "email": "shadah@gmail.com",
+        "password": "123",
+        "courses":[2]
+    },
+    {
+        "id": 3,
+        "name": "shatha",
+        "email": "shatha@gmail.com",
+        "password": "123",
+        "courses":[1]
+    }
+]}

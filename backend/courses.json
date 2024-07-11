@@ -1,0 +1,17 @@
+{ "courses": [
+    {
+        "course_id": 1,
+        "name": "Data Mining",
+        "user_ids": [1, 2]
+    },
+    {
+        "course_id": 2,
+        "name": "Machine Learning",
+        "user_ids": [1,3]
+    },
+    {
+        "course_id": 3,
+        "name": "Deep Learning",
+        "user_ids": [2,3]
+    }
+]}

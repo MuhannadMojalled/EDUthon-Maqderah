@@ -1,0 +1,158 @@
+ { "quizes":[{
+    "id": 8,
+    "questions": [
+        {
+            "question": {
+                "questionNumber": "1",
+                "question": "1. What is the primary goal of cluster analysis?"
+            },
+            "answers": {
+                "A": "- A. To classify data based on predefined labels",
+                "B": "- B. To find groups of objects that are similar to each other",
+                "C": "- C. To segment data alphabetically",
+                "D": "- D. To partition graphs"
+            },
+            "correct_answer": "B",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "1"
+        },
+        {
+            "question": {
+                "questionNumber": "2",
+                "question": "2. Which of the following is NOT an application of clustering?"
+            },
+            "answers": {
+                "A": "- A. Image recognition",
+                "B": "- B. Webpage content grouping",
+                "C": "- C. Supervised classification",
+                "D": "- D. Grouping similar proteins"
+            },
+            "correct_answer": "C",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "2"
+        },
+        {
+            "question": {
+                "questionNumber": "3",
+                "question": "3. Which method is described as a set of nested clusters organized as a hierarchical tree?"
+            },
+            "answers": {
+                "A": "- A. Partitioning Methods",
+                "B": "- B. Density-based Methods",
+                "C": "- C. Grid-based Methods",
+                "D": "- D. Hierarchical Methods"
+            },
+            "correct_answer": "D",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "3"
+        },
+        {
+            "question": {
+                "questionNumber": "4",
+                "question": "4. What is the main difference between K-means and K-medoids algorithms?"
+            },
+            "answers": {
+                "A": "- A. K-means uses centroids while K-medoids uses medoids",
+                "B": "- B. K-means is hierarchical while K-medoids is partitioning",
+                "C": "- C. K-means is density-based while K-medoids is grid-based",
+                "D": "- D. K-means handles outliers better than K-medoids"
+            },
+            "correct_answer": "A",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "1"
+        },
+        {
+            "question": {
+                "questionNumber": "5",
+                "question": "5. Which of the following is a requirement for cluster analysis?"
+            },
+            "answers": {
+                "A": "- A. Ability to deal with noisy data",
+                "B": "- B. Supervised classification",
+                "C": "- C. Simple segmentation",
+                "D": "- D. Graph partitioning"
+            },
+            "correct_answer": "A",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "2"
+        },
+        {
+            "question": {
+                "questionNumber": "6",
+                "question": "6. What is the most common measure used to evaluate K-means clusters?"
+            },
+            "answers": {
+                "A": "- A. Mean Squared Error (MSE)",
+                "B": "- B. Sum of Squared Error (SSE)",
+                "C": "- C. Root Mean Squared Error (RMSE)",
+                "D": "- D. Mean Absolute Error (MAE)"
+            },
+            "correct_answer": "B",
+            "clo": " Evaluate and assess the effectiveness of different data mining techniques.",
+            "difficulty": "3"
+        },
+        {
+            "question": {
+                "questionNumber": "7",
+                "question": "7. Which clustering method quantizes the object space into a finite number of cells?"
+            },
+            "answers": {
+                "A": "- A. Partitioning Methods",
+                "B": "- B. Density-based Methods",
+                "C": "- C. Grid-based Methods",
+                "D": "- D. Hierarchical Methods"
+            },
+            "correct_answer": "C",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "2"
+        },
+        {
+            "question": {
+                "questionNumber": "8",
+                "question": "8. What is a key characteristic of density-based clustering methods?"
+            },
+            "answers": {
+                "A": "- A. Divides data objects into non-overlapping subsets",
+                "B": "- B. Organizes clusters as a hierarchical tree",
+                "C": "- C. Divides objects based on the notion of density",
+                "D": "- D. Quantizes the object space into cells"
+            },
+            "correct_answer": "C",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "2"
+        },
+        {
+            "question": {
+                "questionNumber": "9",
+                "question": "9. Which of the following is a consideration for cluster analysis?"
+            },
+            "answers": {
+                "A": "- A. Supervised classification",
+                "B": "- B. Simple segmentation",
+                "C": "- C. Similarity measure",
+                "D": "- D. Graph partitioning"
+            },
+            "correct_answer": "C",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "1"
+        },
+        {
+            "question": {
+                "questionNumber": "10",
+                "question": "10. What is the purpose of using medoids in the K-medoids algorithm?"
+            },
+            "answers": {
+                "A": "- A. To handle outliers better",
+                "B": "- B. To use centroids for clustering",
+                "C": "- C. To organize clusters hierarchically",
+                "D": "- D. To quantize the object space"
+            },
+            "correct_answer": "A",
+            "clo": " Understand the basic concepts and techniques of data mining.",
+            "difficulty": "3"
+        }
+    ]
+}
+    ]
+}
+      

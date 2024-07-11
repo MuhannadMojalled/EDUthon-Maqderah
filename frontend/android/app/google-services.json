@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168429018697",
+    "project_id": "maqderah-65012",
+    "storage_bucket": "maqderah-65012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168429018697:android:1905308a148b39bafa6998",
+        "android_client_info": {
+          "package_name": "com.maqderah.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSLM0qM3PDTFhIEput2sWCf3xZryTWcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
